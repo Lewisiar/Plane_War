@@ -2,6 +2,7 @@ import pygame
 from plane_sprites import *
 
 #Git say hello!
+#bye~~
 class PlaneGame(object):
     """飞机大战主程序"""
 
